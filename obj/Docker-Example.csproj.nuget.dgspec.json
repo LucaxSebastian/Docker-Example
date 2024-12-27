@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Dev\\Docker-Example\\Docker-Example.csproj": {}
+    "C:\\Dev\\Docker-Example\\Docker-Example.csproj": {}
   },
   "projects": {
-    "c:\\Dev\\Docker-Example\\Docker-Example.csproj": {
+    "C:\\Dev\\Docker-Example\\Docker-Example.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Dev\\Docker-Example\\Docker-Example.csproj",
+        "projectUniqueName": "C:\\Dev\\Docker-Example\\Docker-Example.csproj",
         "projectName": "Docker-Example",
-        "projectPath": "c:\\Dev\\Docker-Example\\Docker-Example.csproj",
+        "projectPath": "C:\\Dev\\Docker-Example\\Docker-Example.csproj",
         "packagesPath": "C:\\Users\\lucas.sebastian\\.nuget\\packages\\",
-        "outputPath": "c:\\Dev\\Docker-Example\\obj\\",
+        "outputPath": "C:\\Dev\\Docker-Example\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

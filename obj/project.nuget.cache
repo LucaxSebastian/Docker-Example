@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JU5ts6ETFEw=",
+  "dgSpecHash": "BXejNrdL5ms=",
   "success": true,
-  "projectFilePath": "c:\\Dev\\Docker-Example\\Docker-Example.csproj",
+  "projectFilePath": "C:\\Dev\\Docker-Example\\Docker-Example.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucas.sebastian\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
     "C:\\Users\\lucas.sebastian\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.6\\microsoft.aspnetcore.openapi.8.0.6.nupkg.sha512",
