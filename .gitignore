@@ -20,9 +20,6 @@ obj/
 .vsconfig
 .vs/
 
-appsettings.Development.json
-.env
-
 # Ignorar arquivos HTTP
 *.http
 
